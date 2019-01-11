@@ -34,6 +34,8 @@
 | 29 | | PCE16CE006 | Aditya Rajora | https://github.com/Adityarajora/MYMLPractice |
 | 30 | | PCE16CE062 | Manas | https://github.com/Manaskashyap/My-ML-Practice |
 | 31 | 1 | PCE16CE092 | Shivansh Mathur | https://github.com/Shiva942/my_ML_practice |
+| 32 | | PCE16CE036 | Disti Jain | https://github.com/distijain98/mymlpractice.git |
+
 
 ## 2nd Year
 
